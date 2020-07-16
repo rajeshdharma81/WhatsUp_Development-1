@@ -18,5 +18,7 @@ Author : Jaganath
 
 8. Adding status so that user can play train games
 
+9. Adding options to create groups upto 100 users
+
 
 
